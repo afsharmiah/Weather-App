@@ -1,5 +1,5 @@
 
-# weatherapp
+# Weather-App
 Created a weather app by using Javascript, HTML5 and CSS3. 
 
 I have added the following features in my app. 
